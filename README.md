@@ -6,3 +6,5 @@
 Грамматики, которыми мы пользовались в ходе работы: https://baltoslav.eu/hsb/; The Slavonic Languages (Greville Corbett, Bernard Comrie)
 
 По вопросам можете обращаться в Telegram @maaliskuu
+
+###### Игорь Марченко, Тарас Андрушко, 2021
